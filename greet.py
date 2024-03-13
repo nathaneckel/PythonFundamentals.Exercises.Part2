@@ -15,5 +15,6 @@ myname = "Nathan Eckel"
 name3 = "Darth Vader"
 name2 = "Guido van Rossum"
 
+#ForLoop with my counter added just b/c I like putting a counter in here
 for i in range(501):
     greet(name_input + " " + myname + " " + name2 + " " + name3 + " " + str(i))
